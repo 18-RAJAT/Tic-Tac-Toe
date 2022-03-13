@@ -2,4 +2,4 @@
 
 Using ReactJS
 
-JSX,useState,useEffectand CSS
+JSX, useState, useEffect, HTML and CSS
